@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\obj\Debug\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
