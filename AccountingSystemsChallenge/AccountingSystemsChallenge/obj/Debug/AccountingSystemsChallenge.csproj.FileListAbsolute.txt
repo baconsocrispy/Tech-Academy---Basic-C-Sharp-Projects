@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\bin\Debug\AccountingSystemsChallenge.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\bin\Debug\AccountingSystemsChallenge.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\bin\Debug\AccountingSystemsChallenge.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\obj\Debug\AccountingSystemsChallenge.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\obj\Debug\AccountingSystemsChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\obj\Debug\AccountingSystemsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\obj\Debug\AccountingSystemsChallenge.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AccountingSystemsChallenge\AccountingSystemsChallenge\obj\Debug\AccountingSystemsChallenge.pdb
