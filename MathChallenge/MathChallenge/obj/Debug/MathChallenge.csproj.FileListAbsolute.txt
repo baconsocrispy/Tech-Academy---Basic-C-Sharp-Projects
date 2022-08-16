@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
