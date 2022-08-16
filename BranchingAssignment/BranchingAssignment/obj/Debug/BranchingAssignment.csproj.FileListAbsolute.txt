@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
