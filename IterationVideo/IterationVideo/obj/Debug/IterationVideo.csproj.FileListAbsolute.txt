@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\obj\Debug\IterationVideo.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\obj\Debug\IterationVideo.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\obj\Debug\IterationVideo.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\bin\Debug\IterationVideo.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\bin\Debug\IterationVideo.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\bin\Debug\IterationVideo.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\obj\Debug\IterationVideo.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\IterationVideo\IterationVideo\obj\Debug\IterationVideo.pdb
