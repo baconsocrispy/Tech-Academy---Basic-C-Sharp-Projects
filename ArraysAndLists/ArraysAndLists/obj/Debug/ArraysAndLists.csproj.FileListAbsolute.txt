@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
