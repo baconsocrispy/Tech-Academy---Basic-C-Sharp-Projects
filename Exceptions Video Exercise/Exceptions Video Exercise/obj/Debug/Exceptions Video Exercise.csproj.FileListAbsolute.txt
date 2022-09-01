@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\bin\Debug\Exceptions Video Exercise.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\bin\Debug\Exceptions Video Exercise.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\bin\Debug\Exceptions Video Exercise.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\obj\Debug\Exceptions Video Exercise.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\obj\Debug\Exceptions Video Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\obj\Debug\Exceptions Video Exercise.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\obj\Debug\Exceptions Video Exercise.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\Exceptions Video Exercise\Exceptions Video Exercise\obj\Debug\Exceptions Video Exercise.pdb

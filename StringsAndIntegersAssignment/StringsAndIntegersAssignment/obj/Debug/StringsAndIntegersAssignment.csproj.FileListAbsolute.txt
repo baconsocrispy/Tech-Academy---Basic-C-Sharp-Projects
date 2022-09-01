@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\bin\Debug\StringsAndIntegersAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\StringsAndIntegersAssignment\StringsAndIntegersAssignment\obj\Debug\StringsAndIntegersAssignment.pdb
