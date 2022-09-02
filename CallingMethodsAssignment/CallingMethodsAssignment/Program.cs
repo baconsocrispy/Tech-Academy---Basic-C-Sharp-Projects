@@ -10,7 +10,9 @@ namespace CallingMethodsAssignment
     {
         static void Main(string[] args)
         {
-            YourNum num1 = new YourNum(15);
+            Console.WriteLine("Choose a number:");
+            int number = int.Parse(Console.ReadLine());
+            YourNum num1 = new YourNum(number);
 
             int result1 = num1.Multiply(32);
             int result2 = num1.Add(345879);
