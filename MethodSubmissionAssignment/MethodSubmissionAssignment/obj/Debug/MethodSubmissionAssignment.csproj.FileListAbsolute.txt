@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\bin\Debug\MethodSubmissionAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MethodSubmissionAssignment\MethodSubmissionAssignment\obj\Debug\MethodSubmissionAssignment.pdb
