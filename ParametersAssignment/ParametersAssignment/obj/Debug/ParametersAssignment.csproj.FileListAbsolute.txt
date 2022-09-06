@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.pdb
