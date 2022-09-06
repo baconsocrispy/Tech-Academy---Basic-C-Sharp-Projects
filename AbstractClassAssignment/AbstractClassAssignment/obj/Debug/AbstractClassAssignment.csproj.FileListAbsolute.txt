@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
