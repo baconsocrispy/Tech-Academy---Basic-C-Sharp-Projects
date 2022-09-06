@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\bin\Debug\PolyMorphismAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\PolyMorphismAssignment\PolyMorphismAssignment\obj\Debug\PolyMorphismAssignment.pdb
