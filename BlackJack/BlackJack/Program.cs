@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
-using System.Xml.Linq;
-
+using Casino;
+using Casino.BlackJack;
+   
 namespace BlackJack
 {
     internal class Program
@@ -23,7 +19,7 @@ namespace BlackJack
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
-                Game game = new BlackJack();
+                Game game = new BlackJackGame();
                 game += player;
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
