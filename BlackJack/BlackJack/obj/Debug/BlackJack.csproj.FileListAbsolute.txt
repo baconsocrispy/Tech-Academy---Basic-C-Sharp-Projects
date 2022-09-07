@@ -1,7 +1,6 @@
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\BlackJack.exe
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\Casino.dll
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\Casino.pdb
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.SuggestedBindingRedirects.cache
@@ -9,3 +8,4 @@ C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CopyComplete
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\obj\Debug\BlackJack.exe
 C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\BlackJack\BlackJack\bin\Debug\Casino.dll
