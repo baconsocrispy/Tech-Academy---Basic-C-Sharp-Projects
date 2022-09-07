@@ -45,6 +45,7 @@
     <Compile Include="BlackJackGame.cs" />
     <Compile Include="BlackJackRules.cs" />
     <Compile Include="Card.cs" />
+    <Compile Include="FraudException.cs" />
     <Compile Include="Dealer.cs" />
     <Compile Include="Deck.cs" />
     <Compile Include="Game.cs" />

@@ -16,9 +16,13 @@ namespace ConstructorAssignment
 
             //// create a variable using var
             var sky_string = new SkyClass(14, sky_color);
+            var sky_string2 = new SkyClass(4);
 
             Console.WriteLine(sky_string.Clouds);
             Console.WriteLine(sky_string.SkyColor);
+
+            Console.WriteLine(sky_string2.Clouds);
+            Console.WriteLine(sky_string2.SkyColor);
 
             Console.Read();
 
