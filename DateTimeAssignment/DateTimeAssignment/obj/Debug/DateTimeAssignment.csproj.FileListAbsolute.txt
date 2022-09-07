@@ -1,0 +1,8 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\bin\Debug\DateTimeAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\DateTimeAssignment\DateTimeAssignment\obj\Debug\DateTimeAssignment.pdb
