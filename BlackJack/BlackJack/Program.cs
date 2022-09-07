@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using System.Xml.Linq;
 
 namespace BlackJack
 {
@@ -22,7 +24,7 @@ namespace BlackJack
             {
                 Player player = new Player(playerName, bank);
                 Game game = new BlackJack();
-                game += player
+                game += player;
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
                 {
