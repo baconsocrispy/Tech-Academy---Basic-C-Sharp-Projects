@@ -1,0 +1,22 @@
+﻿@using CarInsurance.Models
+@model List<Insuree>
+
+@{
+    ViewBag.Title = "Admin";
+}
+
+<h2>Admin</h2>
+
+@* Page must show all quotes issued along with FirstName, LastName and Quote *@
+<ul>
+    @foreach (Insuree insuree in Model)
+    {
+        <li>
+            <h3>@insuree.FirstName @insuree.LastName</h3>
+            Quote: $@Math.Round(insuree.Quote, 2)
+        </li>
+    }
+</ul>
+
+
+
