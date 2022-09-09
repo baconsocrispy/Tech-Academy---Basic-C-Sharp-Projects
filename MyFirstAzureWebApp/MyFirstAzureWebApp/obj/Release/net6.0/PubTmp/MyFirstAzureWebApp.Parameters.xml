@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="MyFirstAzureWebApp20220909105455" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\carte\\OneDrive\\Documents\\code\\tech_academy\\basic_c\#_programs\\MyFirstAzureWebApp\\MyFirstAzureWebApp\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

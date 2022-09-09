@@ -1,0 +1,13 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.exe.config
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EFCodeFirstAssignment.pdb
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EntityFramework.dll
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EntityFramework.xml
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.AssemblyReference.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.CoreCompileInputs.cache
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.csproj.CopyComplete
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\EFCodeFirstAssignment\EFCodeFirstAssignment\obj\Debug\EFCodeFirstAssignment.pdb

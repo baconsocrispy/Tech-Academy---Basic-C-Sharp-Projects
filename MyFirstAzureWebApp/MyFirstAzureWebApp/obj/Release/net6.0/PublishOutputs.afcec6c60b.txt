@@ -1,0 +1,7 @@
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.exe
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.dll
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.deps.json
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\carte\OneDrive\Documents\code\tech_academy\basic_c#_programs\MyFirstAzureWebApp\MyFirstAzureWebApp\obj\Release\net6.0\PubTmp\Out\MyFirstAzureWebApp.pdb
